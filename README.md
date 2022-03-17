@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analytics
 - 💞️ I want to collaborate with cool people from the world of data and participate in cool projects with them!
 - 📫 How to reach me: 
-gmail: maksmakso110@gmail.com
+maksmakso110@gmail.com
 
 <!---
 u34u43/u34u43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
