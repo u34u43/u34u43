@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maksym Artemenko (@u34u43)
-- 👀 I’m interested in everything that concerns data
+- 👀 I’m interested in everything that concerns data.
 - 🌱 I’m currently learning data analytics and I have completed the Google Data Analytics - Professional Certificate course.
 - 💞️ I want to collaborate with cool people from the world of data and participate in cool projects with them!
 - 📫 How to reach me: 
